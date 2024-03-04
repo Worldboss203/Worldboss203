@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Worldboss203
 - 👀 I’m interested in Software Development projects
-- 🌱 I’m currently learning backend development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> innocentworldboss203@gmail.com
 
 <!---
