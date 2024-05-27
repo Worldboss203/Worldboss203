@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Worldboss203
-- 👀 I’m interested in Software Development projects
+- 👀 I’m interested in Devops projects
 - 📫 How to reach me -> innocentworldboss203@gmail.com
 
 <!---
